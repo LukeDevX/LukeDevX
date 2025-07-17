@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- github访问统计-->
 <img src="https://komarev.com/ghpvc/?username=LukeDevX&abbreviated=true" />
 
-2年web2-java开发，1年web3合约和go开发。<br/>
+Web3 Engineer | EVM· Solana · Ton · Sui | Smart Contract Development & Backend Infrastructure for dApps.<br/>
 技术栈：solidity，rust，move，go，java。
 
 <!-- github 提交
