@@ -28,6 +28,6 @@ Tech Stack：solidity，rust，tact，move，go，java。
 
 
 <!--GitHub 使用语言统计-->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeDevX&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<div align="center"> <img src="github-readme-stats-git-main-lukedevxs-projects.vercel.app/api/top-langs/?layout=compact&bg_color=0%2C52fa5a%2C4dfcff%2Cc64dff&username=LukeDevX&icon_color=fff&langs_count=10&hide_title=true&hide_border=true&text_color=000&theme=graywhite" /> </div>
 
 
