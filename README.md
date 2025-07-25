@@ -21,7 +21,7 @@
   - Position：Smart Contract  Development
   - Responsibilities：Developed and optimized smart contracts
 
-- [ARTS TECHNOLOGY CO., LIMITED](https://www.4arts.cc/pages/) &emsp; 📌 2024-06 —— 2025-03
+- [4arts](https://www.4arts.cc/pages/) &emsp; 📌 2024-06 —— 2025-03
 
   - Position：Smart Contract & Golang Developer
   - Responsibilities：Developed smart contracts (ERC20, ERC721, airdrop, ICO) on EVM, TON, Solana and built backend services with Golang.
